@@ -171,7 +171,7 @@ ui <- dashboardPage (
         h2("Project Name"),
         h4("Big Yellow Taxi"),
         p("Project link: https://sf8nhp-malika-yelyubayeva.shinyapps.io/cs424p3/ "),
-        p("GitHub link: "),
+        p("GitHub link: https://github.com/nickparov/cs424Proj3_Final"),
         p("(ADD TO GITHUB any instructions necessary to run the app. These instructions should start from the assumption that the reader has a web browser on their computer and tells the user everything else he/she needs to know and do to get it running using R-studio, including installing correct versions of all the required software)"),
         h2("Project Description"),
         p("This project is concentrated on using R to visualize data from taxi journeys in Chicago, as well as utilizing Shiny to provide users with an interactive interface for creating those visualizations. The data can be helpful for people who want to analyze the dynamics of the Chicago area - from which areas people usually come or go. "),
